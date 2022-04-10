@@ -1,4 +1,7 @@
-# self_manage
+# Self Manage
+This is just a basic layout attempt for flutter. However this may be the tiny  beggining of great things. :grin::grin:
+
+![jpg](https://user-images.githubusercontent.com/61375971/162616766-c5af9299-b9a3-41ab-a84d-3e6eeb8a235b.jpg)
 
 Catch your time
 
@@ -14,4 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![jpg](https://user-images.githubusercontent.com/61375971/162616766-c5af9299-b9a3-41ab-a84d-3e6eeb8a235b.jpg)
+
